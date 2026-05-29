@@ -1,4 +1,7 @@
 # Python Network Monitoring App V2
+## Purpose of the Project
+
+This project demonstrates how Python can be used to build a modern web-based network monitoring system capable of capturing, analyzing, and visualizing network traffic in real time.
 
 ## Overview
 
